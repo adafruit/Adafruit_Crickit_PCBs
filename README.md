@@ -5,8 +5,9 @@ Format is EagleCAD schematic and board layout
 
 For more details, check out the product pages at
 
-   * http://www.adafruit.com/products/3093
-   * http://www.adafruit.com/products/3343
+   * http://www.adafruit.com/products/3093 (circuit playground)
+   * http://www.adafruit.com/products/3343 (feather)
+   * https://www.adafruit.com/product/3928 (microbit)
 
 Adafruit invests time and resources providing this open source design, 
 please support Adafruit and open-source hardware by purchasing 
