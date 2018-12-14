@@ -8,6 +8,7 @@ For more details, check out the product pages at
    * http://www.adafruit.com/products/3093 (circuit playground)
    * http://www.adafruit.com/products/3343 (feather)
    * https://www.adafruit.com/product/3928 (microbit)
+   * https://www.adafruit.com/product/3957 (HAT)
 
 Adafruit invests time and resources providing this open source design, 
 please support Adafruit and open-source hardware by purchasing 
